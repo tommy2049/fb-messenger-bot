@@ -1,7 +1,7 @@
-This is a template for writing facebook messenger bots using google app engine. 
+# This is a template for writing facebook messenger bots using google app engine. 
 
 
-Pre-requisite
+## **Pre-requisite**
 
 Ensure you have a clean working directory with python2.7 since google cloud platform does not support python 3.6 yet. I recommend using virtualenv to create an isolated environment for python2.7 development. Virtualenv ensures there is no depency issues between python 2.x and 3.x, for more info read up on http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/.
 
@@ -12,7 +12,7 @@ Usually on ubuntu linux, the set up for virtual env goes like this ...
 3. "cd my_project" then "source bin/activate"   Once you activate, a "sandbox" environment is created
 
 
-Instructions on setting up
+## **Instructions on setting up**
 
 1. "git clone https://github.com/tommy1995/fb-messenger-bot" to clone project into your working directory
 2. "cd fb-messenger-bot" 
@@ -22,6 +22,6 @@ Instructions on setting up
 6. when deployed successfully, take your project's url and complete webhook set up on facebook side
 
 
-Customizing Bot's message
+## **Customizing Bot's message**
 
 In main.py, modify the content of "process_text" which for now only echoes back whatever the user speaks to it. You might wanna use an nlu library or write a simple function to extract user input's intent and reply with some meaningful messages. 
