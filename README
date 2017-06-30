@@ -1,1 +1,3 @@
 This is a template for myself for writing facebook messenger bots.
+
+The project has set up all the dependencies, simply modify the "process_text" function in main.py to customize your message and to handle user input.
