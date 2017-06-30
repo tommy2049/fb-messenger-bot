@@ -1,5 +1,6 @@
-# This is a template for writing facebook messenger bots using google app engine. 
+# Template code for facebook messenger bots using google app engine. 
 
+![alt text](http://www.icapps.com/wp-content/uploads/2017/02/3059439-poster-1280-why-the-latest-invasion-of-chatbots-isnt-like-the-others.jpg)
 
 ## **Pre-requisite**
 
