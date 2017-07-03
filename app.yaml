@@ -7,7 +7,7 @@ handlers:
   script: main.app
 
 env_variables:
-  PAGE_ACCESS_TOKEN: "EAAS4YhBV6OIBAMUkBA2PXov5ShZBiopMswdrJzXlnSimUiEMJglNBguCnb4zsSjhfR6eLM74u61SGbcGZB0KvzLQFqWETf4VbRGduZAQoV8hVu003IHZAA52ZAXZCIHlfUiukqFQN224gUcyGlE7ZCZBDNRCTRBm8riQpt9J7RqcxrnUYByoHIiM"
+  PAGE_ACCESS_TOKEN: ""
 
 libraries:
 - name: ssl 
